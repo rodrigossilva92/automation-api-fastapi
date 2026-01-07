@@ -8,6 +8,10 @@ class Settings(BaseSettings):
     environment: str = "development"
     debug: bool = True
 
+    secret_key: str = "CHANGE_ME"
+    algorithm: str = "HS256"
+    access_token_expire_minutes: int = 60
+
     model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",

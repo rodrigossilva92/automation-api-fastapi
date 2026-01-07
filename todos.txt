@@ -1,0 +1,14 @@
+🥈 2. Clear Project Structure & README
+🥉 3. Task Features That Feel Real
+🧪 4. Tests (Even Minimal Ones)
+🐳 5. Docker & One-Command Startup
+🔐 6. Security Polish
+🧩 7. API Design Polish
+
+## Future Improvements
+- Refresh tokens
+- Role-based access control
+- Task recurrence
+- Notifications
+- Frontend integration
+
